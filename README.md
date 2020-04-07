@@ -1,2 +1,2 @@
-# c-20-project
-background colour change
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
